@@ -2,7 +2,9 @@
 
 Team49
 
-# Ürün İle İlgili Bilgiler
+# Oyun linki
+
+https://sedatko.itch.io/november-game
 
 ## Takım Elemanları
 
